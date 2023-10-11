@@ -2,7 +2,11 @@
     width: 1300px;
     height: 100%;
    margin: auto;
-   
+   background-color: black;
+}
+body{
+
+    background-color: black;
 }
 
 .sumit2{
@@ -44,7 +48,7 @@ color: green;
         @media(max-width:768px){
 
 body{
-
+    background-color: black;
 width: 100%;
     font-size: 50px;
 }
